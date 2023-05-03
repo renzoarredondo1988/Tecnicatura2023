@@ -1,1 +1,11 @@
 Escribiremos algunas lineas de texto
+
+una linea
+2 lineas
+3 lineas
+4 lineas
+
+
+Continuo agregando
+algunas lineas mas
+a modo de ejercicio
