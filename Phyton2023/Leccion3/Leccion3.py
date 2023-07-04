@@ -3,6 +3,10 @@
 #condicion=True
 contador=0
 
+perro=5
+gato="morita"
+
+
 while contador<5:
     print ("Ejecutando el ciclo while")
     contador +=1
